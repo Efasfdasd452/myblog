@@ -1,0 +1,14 @@
+# Hugo
+.hugo_build.lock
+/resources/_gen/
+
+# 编辑器临时文件
+*~
+*.un~
+.obsidian/
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
