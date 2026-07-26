@@ -1,6 +1,11 @@
-# Hugo
+# Hugo 构建产物
+# Cloudflare Pages 是从源码自己构建的(实测线上跑的是它自带的 Hugo),
+# 所以 public/ 不需要提交,提交了反而每次产生几十个无意义的文件变更。
+/public/
 .hugo_build.lock
 /resources/_gen/
+# 隐藏文件的编辑器备份(如 .first-post.md.un~),*~ 匹配不到
+.*~
 
 # 编辑器临时文件
 *~
