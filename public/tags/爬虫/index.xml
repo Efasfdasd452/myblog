@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 我的博客</title>
-    <link>https://myblog-aya.pages.dev/posts/</link>
-    <description>Recent content in Posts on 我的博客</description>
+    <title>爬虫 on 我的博客</title>
+    <link>https://myblog-aya.pages.dev/tags/%E7%88%AC%E8%99%AB/</link>
+    <description>Recent content in 爬虫 on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 26 Jul 2026 10:50:02 +0800</lastBuildDate>
-    <atom:link href="https://myblog-aya.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>观看注意</title>
-      <link>https://myblog-aya.pages.dev/posts/attention/</link>
-      <pubDate>Sun, 26 Jul 2026 10:41:37 +0800</pubDate>
-      <guid>https://myblog-aya.pages.dev/posts/attention/</guid>
-      <description>&lt;h1 id=&#34;注意&#34;&gt;注意&lt;/h1&gt;
-&lt;h2 id=&#34;本人的blogger严格遵守美利坚合众国宪法第一修正案以及中国相关网络安全法&#34;&gt;本人的blogger严格遵守美利坚合众国宪法第一修正案以及中国相关网络安全法！&lt;/h2&gt;
-&lt;h2 id=&#34;本blogger包含大量的正确讲出真相但会触犯特定人群利益的内容如果您不喜欢您可以立刻离开&#34;&gt;本blogger包含大量的正确，讲出真相但会触犯特定人群利益的内容，如果您不喜欢，您可以立刻离开！&lt;/h2&gt;</description>
-    </item>
+    <atom:link href="https://myblog-aya.pages.dev/tags/%E7%88%AC%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>核心思想-关于爬虫</title>
       <link>https://myblog-aya.pages.dev/posts/about-spider/</link>
@@ -51,15 +42,6 @@
 &lt;p&gt;所以，真正的策略是，每次都是固定参数，同一个ip或者地理相近的ip，但是我通过多个不同的设备&lt;strong&gt;组成池子&lt;/strong&gt;，同时进行爬取，这才是正解！&lt;/p&gt;
 &lt;h1 id=&#34;尾声&#34;&gt;尾声&lt;/h1&gt;
 &lt;p&gt;写完这篇博文，我知道还有一部分缺失的内容，但是后面缺少的内容，想到哪里再往上补充吧。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>https://myblog-aya.pages.dev/posts/first-post/</link>
-      <pubDate>Sat, 04 Jul 2026 00:16:36 +0800</pubDate>
-      <guid>https://myblog-aya.pages.dev/posts/first-post/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;sadasdsadasd&lt;/p&gt;
-&lt;hr&gt;</description>
     </item>
   </channel>
 </rss>

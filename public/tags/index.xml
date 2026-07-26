@@ -6,8 +6,29 @@
     <description>Recent content in Tags on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Jul 2026 10:41:37 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:50:02 +0800</lastBuildDate>
     <atom:link href="https://myblog-aya.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://myblog-aya.pages.dev/tags/python/</link>
+      <pubDate>Sun, 26 Jul 2026 10:50:02 +0800</pubDate>
+      <guid>https://myblog-aya.pages.dev/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>深层思考</title>
+      <link>https://myblog-aya.pages.dev/tags/%E6%B7%B1%E5%B1%82%E6%80%9D%E8%80%83/</link>
+      <pubDate>Sun, 26 Jul 2026 10:50:02 +0800</pubDate>
+      <guid>https://myblog-aya.pages.dev/tags/%E6%B7%B1%E5%B1%82%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>爬虫</title>
+      <link>https://myblog-aya.pages.dev/tags/%E7%88%AC%E8%99%AB/</link>
+      <pubDate>Sun, 26 Jul 2026 10:50:02 +0800</pubDate>
+      <guid>https://myblog-aya.pages.dev/tags/%E7%88%AC%E8%99%AB/</guid>
+      <description></description>
+    </item>
     <item>
       <title>公告</title>
       <link>https://myblog-aya.pages.dev/tags/%E5%85%AC%E5%91%8A/</link>
